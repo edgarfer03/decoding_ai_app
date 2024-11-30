@@ -5,7 +5,7 @@ import json
 from openai import OpenAI
 import re
 from supporting import import_google_image
-
+import os
 
 
 app = Flask(__name__)
