@@ -1,0 +1,439 @@
+{
+    "recipes": [
+        {
+            "title": "Grilled Chicken Salad",
+            "ingredients": [
+                "chicken breast",
+                "mixed greens",
+                "tomatoes",
+                "cucumber",
+                "balsamic dressing"
+            ],
+            "instructions": "Begin by seasoning the chicken breast with salt, pepper, and any preferred herbs. Grill the chicken on medium heat until itÃ¢â‚¬â„¢s cooked through, about 6Ã¢â‚¬â€œ8 minutes per side, or until it reaches an internal temperature of 165Ã‚Â°F (74Ã‚Â°C). Let the grilled chicken rest for a few minutes, then slice it into strips.\n\nWhile the chicken is grilling, prepare the salad base by combining mixed greens, sliced tomatoes, and thinly sliced cucumber in a large bowl. Toss the ingredients lightly to mix them evenly.\n\nOnce the chicken is ready, place it on top of the salad. Drizzle with balsamic dressing, adjusting the amount to taste, and give it a final gentle toss. Serve immediately while the chicken is still warm.",
+            "id": 3,
+            "favorite": false,
+            "recommended": true,
+            "generated": false,
+            "image": "./static/images/3.jpg"
+        },
+        {
+            "title": "Vegetable Soup",
+            "ingredients": [
+                "carrots",
+                "celery",
+                "onions",
+                "vegetable broth",
+                "herbs"
+            ],
+            "instructions": "Start by finely chopping the carrots, celery, and onions. In a large pot, heat a small amount of oil over medium heat. Add the onions and cook until they become translucent, stirring occasionally. Then, add the carrots and celery and cook for another 5 minutes, allowing the vegetables to soften slightly.\n\nOnce the vegetables are tender, pour in the vegetable broth and bring the mixture to a simmer. Add your favorite herbs, such as thyme or bay leaves, for additional flavor. Let the soup simmer on low heat for about 20Ã¢â‚¬â€œ30 minutes until all the vegetables are tender and flavors are well combined.\n\nFor a smoother texture, you can blend part of the soup or leave it as is for a chunkier consistency. Taste and adjust the seasoning as needed before serving. Serve the soup hot, garnished with fresh herbs if desired.",
+            "id": 4,
+            "favorite": true,
+            "recommended": true,
+            "generated": false,
+            "image": "./static/images/4.jpg"
+        },
+        {
+            "title": "Fruit Smoothie",
+            "ingredients": [
+                "banana",
+                "strawberries",
+                "yogurt",
+                "honey",
+                "ice"
+            ],
+            "instructions": "Prepare the ingredients by peeling and slicing the banana, hulling the strawberries, and gathering the yogurt, honey, and ice. If the strawberries are large, you may want to cut them in half for easier blending.\n\nIn a blender, combine the banana, strawberries, yogurt, and honey. Start with a small amount of honey, as you can add more later if a sweeter taste is desired. Add a handful of ice to make the smoothie cold and refreshing.\n\nBlend on high until the mixture is smooth and creamy. Taste the smoothie and add more honey if needed. For a thicker consistency, add a few more ice cubes or a bit more yogurt, and blend again.\n\nPour the smoothie into a glass and enjoy it right away for the best texture. This smoothie is both nutritious and refreshing, making it an ideal snack or light breakfast.",
+            "id": 5,
+            "favorite": true,
+            "recommended": true,
+            "generated": false,
+            "image": "./static/images/5.jpg"
+        },
+        {
+            "title": "Quinoa Bowl",
+            "ingredients": [
+                "quinoa",
+                "roasted vegetables",
+                "avocado",
+                "lemon dressing"
+            ],
+            "instructions": "Begin by cooking the quinoa according to package instructions, generally a 1:2 ratio of quinoa to water. Bring the water to a boil, add the quinoa, reduce to a simmer, cover, and let it cook until all the water is absorbed, about 15 minutes. Fluff the quinoa with a fork and set it aside to cool slightly.\n\nFor the roasted vegetables, choose a variety such as bell peppers, zucchini, carrots, or any of your favorites. Cut them into bite-sized pieces, season with salt, pepper, and a drizzle of olive oil, and roast at 400Ã‚Â°F (200Ã‚Â°C) for about 20 minutes or until tender.\n\nTo assemble the bowl, place a generous serving of quinoa at the bottom. Top it with the roasted vegetables, slices of avocado, and drizzle with lemon dressing. You can make the dressing by mixing fresh lemon juice, olive oil, salt, and pepper to taste.\n\nThis quinoa bowl is a balanced meal filled with protein, healthy fats, and fiber. Serve immediately or enjoy it chilled for a refreshing option.",
+            "id": 6,
+            "favorite": false,
+            "recommended": true,
+            "generated": false,
+            "image": "./static/images/6.jpg"
+        },
+        {
+            "title": "Sushi Roll",
+            "ingredients": [
+                "sushi rice",
+                "nori",
+                "salmon",
+                "cucumber",
+                "avocado"
+            ],
+            "instructions": "Begin by preparing the sushi rice according to the package instructions, adding a touch of rice vinegar, sugar, and salt to season it once cooked. Allow the rice to cool slightly before using, as it should be sticky but not hot.\n\nLay a sheet of nori on a bamboo sushi mat. Wet your fingers and spread a thin layer of sushi rice evenly over the nori, leaving about an inch of space at the top. Place thin slices of salmon, cucumber, and avocado horizontally across the center of the rice.\n\nUsing the sushi mat, roll the nori over the fillings, pressing gently to form a tight roll. Once fully rolled, use a sharp knife to slice the sushi roll into bite-sized pieces. Clean the knife between slices to maintain clean cuts.\n\nServe the sushi rolls with soy sauce, pickled ginger, and wasabi. Enjoy fresh for the best taste and texture.",
+            "id": 7,
+            "favorite": true,
+            "recommended": true,
+            "generated": false,
+            "image": "./static/images/7.jpg"
+        },
+        {
+            "title": "Beef Stir Fry",
+            "ingredients": [
+                "beef strips",
+                "mixed vegetables",
+                "soy sauce",
+                "ginger",
+                "garlic"
+            ],
+            "instructions": "Start by slicing the beef into thin strips, if not pre-cut. In a small bowl, mix soy sauce, grated ginger, and minced garlic to create a marinade. Pour the marinade over the beef, ensuring each strip is coated, and let it sit for 10Ã¢â‚¬â€œ15 minutes to absorb the flavors.\n\nWhile the beef marinates, chop the mixed vegetables, which could include bell peppers, broccoli, carrots, and snap peas. Heat a wok or large skillet over high heat and add a small amount of oil.\n\nOnce the oil is hot, add the beef strips in batches, cooking until they are browned on the outside. Remove the beef from the wok, add a bit more oil if needed, and stir-fry the vegetables until they are tender but still crisp, about 5 minutes.\n\nReturn the beef to the wok, toss everything together, and cook for another minute. Serve the stir fry hot with rice or noodles, garnished with sesame seeds or green onions if desired.",
+            "id": 8,
+            "favorite": true,
+            "recommended": true,
+            "generated": false,
+            "image": "./static/images/8.jpg"
+        },
+        {
+            "title": "Chicken Parmesan with Pasta",
+            "ingredients": [
+                "chicken breasts",
+                "pasta",
+                "parmesan cheese",
+                "tomatoes",
+                "onions"
+            ],
+            "instructions": "Start by preheating your oven to 375Â°F (190Â°C). Season the chicken breasts with salt and pepper. Heat a skillet over medium heat and add a bit of olive oil. Once hot, add the chicken breasts and cook until golden brown on each side, about 3-4 minutes per side. Remove the chicken from the skillet and set aside. In the same skillet, add chopped onions and sautÃ© until translucent. Add diced tomatoes and let it cook for about 5 minutes. Season with salt, pepper, and Italian herbs. Transfer the chicken back to the skillet, pouring the tomato mixture over them. Sprinkle generously with grated parmesan cheese. Transfer the skillet to the oven and bake for 20-25 minutes until the chicken is cooked through. Meanwhile, cook pasta according to package instructions. Serve the chicken over the pasta with additional parmesan on top if desired.",
+            "id": 9,
+            "favorite": false,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/9.jpg"
+        },
+        {
+            "title": "Lettuce and Blueberry Salad with Parmesan",
+            "ingredients": [
+                "lettuce",
+                "blueberries",
+                "parmesan cheese",
+                "onions"
+            ],
+            "instructions": "Begin by thoroughly washing and drying the lettuce. Tear it into bite-sized pieces and place in a large salad bowl. Add fresh blueberries to the lettuce. Thinly slice some onions and add them to the salad for a mild, tangy flavor. For a touch of richness, shave or grate some parmesan cheese over the salad. Drizzle with a dressing of your choice, such as a balsamic vinaigrette or a honey-mustard dressing. Toss everything gently to combine and serve immediately as a refreshing and nutritious side dish or light meal.",
+            "id": 10,
+            "favorite": false,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/10.jpg"
+        },
+        {
+            "title": "Tomato and Parmesan Pasta",
+            "ingredients": [
+                "pasta",
+                "tomatoes",
+                "parmesan cheese",
+                "onions"
+            ],
+            "instructions": "First, cook the pasta according to the package instructions in a pot of salted boiling water. While the pasta is cooking, prepare the sauce. In a large skillet, heat olive oil over medium heat. Add finely chopped onions and sautÃ© until they become soft and translucent. Add diced tomatoes to the skillet, cooking them down until they begin to break down into a sauce, about 10 minutes. Season with salt, pepper, and a pinch of sugar to balance the acidity. Once the pasta is cooked, reserve a cup of pasta water and then drain the pasta. Add the drained pasta to the skillet, tossing to coat with the tomato sauce. If needed, add reserved pasta water to achieve desired sauce consistency. Finish by stirring in grated parmesan cheese until it melts into the sauce. Serve hot with extra parmesan on top if preferred.",
+            "id": 11,
+            "favorite": false,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/11.jpg"
+        },
+        {
+            "title": "Quinoa and Lentil Salad with Citrus Dressing",
+            "ingredients": [
+                "quinoa",
+                "lentils",
+                "lemon",
+                "olive oil",
+                "salt",
+                "pepper",
+                "spinach",
+                "almonds"
+            ],
+            "instructions": "Begin by cooking the quinoa and lentils separately according to their package instructions. Meanwhile, whisk together the juice of one lemon, olive oil, salt, and pepper in a small bowl to create a citrus dressing. Once the quinoa and lentils are cooked and cooled, combine them in a large bowl. Add chopped spinach and almonds to the mixture, then pour the citrus dressing over the salad. Toss everything together until well combined. Adjust seasoning to taste and serve chilled or at room temperature.",
+            "id": 12,
+            "favorite": false,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/12.jpg"
+        },
+        {
+            "title": "Salmon with Avocado and Blueberry Salsa",
+            "ingredients": [
+                "salmon",
+                "avocado",
+                "blueberries",
+                "lemon",
+                "olive oil",
+                "salt",
+                "pepper",
+                "ginger"
+            ],
+            "instructions": "Preheat your oven to 375°F (190°C). Place the salmon fillets on a baking sheet lined with parchment paper. Drizzle with olive oil and season with salt, pepper, and grated ginger. Bake for 12-15 minutes or until the salmon is cooked through. While the salmon is baking, prepare the salsa by combining diced avocado, blueberries, and a squeeze of lemon juice in a bowl. Once the salmon is ready, top it with the blueberry and avocado salsa. Serve the salmon hot, accompanied by the fresh, tangy salsa.",
+            "id": 13,
+            "favorite": false,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/13.jpg"
+        },
+        {
+            "title": "Chicken and Broccoli Stir Fry",
+            "ingredients": [
+                "chicken",
+                "broccoli",
+                "ginger",
+                "lemon",
+                "soy sauce",
+                "olive oil"
+            ],
+            "instructions": "Cut chicken into bite-sized pieces and set them aside. In a pan over medium heat, add olive oil and sauté grated ginger until fragrant. Add the chicken pieces to the pan and cook until they are golden brown. Add broccoli florets to the pan and continue to stir fry for about 5 minutes until the broccoli is tender-crisp. In a small bowl, mix soy sauce and lemon juice, then pour this mixture over the chicken and broccoli. Stir well to coat all the ingredients with the sauce. Serve hot with your favorite rice or noodles.",
+            "id": 14,
+            "favorite": false,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/14.jpg"
+        },
+        {
+            "title": "Creamy Chicken Pesto Pasta",
+            "ingredients": [
+                "chicken",
+                "pasta",
+                "pesto",
+                "heavy cream",
+                "parmesan"
+            ],
+            "instructions": "Cook the pasta according to the package instructions until al dente. In a large pan over medium heat, cook the chicken until golden brown on each side and cooked through. Remove the chicken, slice it into strips, and set aside. In the same pan, add the heavy cream and bring it to a gentle simmer. Stir in the pesto and parmesan, mixing well until the sauce is creamy. Add the cooked pasta and chicken back into the pan, tossing everything together until well-coated in the sauce. Serve hot with a sprinkle of sharp parmesan on top.",
+            "id": 15,
+            "favorite": true,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/15.jpg"
+        },
+        {
+            "title": "Tomato Curry Chicken",
+            "ingredients": [
+                "chicken",
+                "tomatoes",
+                "curry",
+                "milk"
+            ],
+            "instructions": "Begin by chopping tomatoes into small cubes. In a large pot, heat a little oil and add chicken pieces, cooking until they become brown on the outside. Remove the chicken and set aside. In the same pot, add the tomatoes along with curry powder, cooking until the tomatoes are softened and fragrant. Gradually stir in the milk, letting the mixture come to a gentle simmer. Return the chicken to the pot, ensuring it's well-coated in the sauce. Simmer until the chicken is cooked through, allowing the flavors to meld together. Serve with rice or bread for a satisfying meal.",
+            "id": 16,
+            "favorite": true,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/16.jpg"
+        },
+        {
+            "title": "Pork Belly with Creamy Raisin Curry Sauce",
+            "ingredients": [
+                "pork belly",
+                "heavy cream",
+                "raisins",
+                "curry"
+            ],
+            "instructions": "Begin by slicing the pork belly into thick slices. In a hot pan, sear the pork belly until crispy and cooked through, then set aside. In the same pan, reduce the heat and add curry powder, allowing it to bloom in the pan. Add raisins and a splash of water to hydrate them slightly. Slowly incorporate the heavy cream, stirring until it forms a smooth sauce. Return the pork belly to the pan and coat with the creamy curry sauce, allowing the flavors to meld together for a few minutes. Serve with your choice of side, like steamed vegetables or mashed potatoes.",
+            "id": 17,
+            "favorite": false,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/17.jpg"
+        },
+        {
+            "title": "Quinoa and Lentil Salad with Avocado and Lemon",
+            "ingredients": [
+                "quinoa",
+                "lentils",
+                "lemon",
+                "avocado",
+                "spinach",
+                "almonds"
+            ],
+            "instructions": "Cook the quinoa according to package instructions. In a separate pot, cook the lentils until tender. In a large bowl, combine the cooked quinoa and lentils with fresh spinach leaves. Slice the avocado and add it to the salad along with a handful of almonds. Squeeze lemon juice over the salad and toss everything together. Season with salt and pepper to taste before serving.",
+            "id": 18,
+            "favorite": false,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/18.jpg"
+        },
+        {
+            "title": "Salmon with Almond and Broccoli Crust",
+            "ingredients": [
+                "salmon",
+                "almonds",
+                "broccoli",
+                "lemon",
+                "ginger"
+            ],
+            "instructions": "Preheat your oven to 375°F (190°C). Finely chop the almonds and broccoli, then combine them with grated ginger and lemon zest. Coat the salmon fillets with this mixture, pressing it down firmly. Place the coated salmon on a baking tray lined with parchment paper. Bake in the oven for 12-15 minutes, or until the salmon is cooked through and the crust is golden brown. Serve with lemon wedges on the side.",
+            "id": 19,
+            "favorite": false,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/19.jpg"
+        },
+        {
+            "title": "Chicken Breast with Pomegranate and Spinach",
+            "ingredients": [
+                "chicken breast",
+                "pomegranate",
+                "spinach",
+                "ginger"
+            ],
+            "instructions": "Season the chicken breasts with salt and pepper. Heat a pan over medium heat and cook the chicken until done, about 6-7 minutes per side. Remove the chicken from the pan and set aside. In the same pan, add grated ginger and let it cook for a minute before adding fresh spinach and pomegranate seeds. Sauté until the spinach is wilted. Serve the chicken breast on a bed of the sautéed spinach and pomegranate.",
+            "id": 20,
+            "favorite": false,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/20.jpg"
+        },
+        {
+            "title": "Pesto Chicken Pasta",
+            "ingredients": [
+                "pasta",
+                "pesto",
+                "chicken",
+                "parmesan"
+            ],
+            "instructions": "Cook the pasta according to the package instructions until al dente, then drain and set aside. In a skillet over medium heat, add some olive oil and cook the chicken pieces until golden and fully cooked through. Reduce the heat and stir in the pesto, ensuring the chicken is well coated. Add the cooked pasta to the skillet, tossing it with the chicken and pesto to mix. Sprinkle freshly grated parmesan on top and serve warm.",
+            "id": 21,
+            "favorite": true,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/21.jpg"
+        },
+        {
+            "title": "Creamy Tomato and Avocado Salad",
+            "ingredients": [
+                "tomatoes",
+                "avocado",
+                "heavy cream",
+                "parmesan"
+            ],
+            "instructions": "Chop the tomatoes and avocado into bite-sized pieces and place them in a large bowl. In a small bowl, mix a few tablespoons of heavy cream with a handful of grated parmesan to create a creamy dressing. Add salt and pepper to taste. Pour the dressing over the tomato and avocado mixture, tossing gently to ensure everything is coated. Serve immediately as a refreshing and creamy salad.",
+            "id": 22,
+            "favorite": false,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/22.jpg"
+        },
+        {
+            "title": "Raisin and Curry Pork Stew",
+            "ingredients": [
+                "pork",
+                "raisins",
+                "curry",
+                "chicken broad",
+                "milk"
+            ],
+            "instructions": "Cut the pork into cubes and season lightly with salt and pepper. In a large pot, heat a bit of oil and brown the pork on all sides. Once browned, add curry powder and stir until the meat is well coated. Pour in the chicken broth, bring to a boil, then reduce to a simmer. Add raisins to the pot and allow the stew to simmer until the pork is tender and the flavors meld, about 45 minutes. In the last 10 minutes, stir in a splash of milk to add creaminess. Adjust seasoning if needed and serve hot.",
+            "id": 23,
+            "favorite": true,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/23.jpg"
+        },
+        {
+            "title": "Grilled Lemon-Ginger Salmon with Avocado Spinach Salad",
+            "ingredients": [
+                "salmon",
+                "lemon",
+                "ginger",
+                "avocado",
+                "spinach",
+                "olive oil",
+                "salt",
+                "pepper"
+            ],
+            "instructions": "Start by preparing the salmon: in a small bowl, mix the juice of one lemon with grated ginger, a pinch of salt, and pepper. Rub this mixture over the salmon fillets and let them marinate for about 15 minutes. While the salmon is marinating, prepare the avocado spinach salad. Slice the avocado and toss it together with fresh spinach leaves in a bowl. Drizzle a bit of olive oil over the salad and season with a pinch of salt and pepper to taste. Heat a grill pan over medium-high heat and grill the salmon for about 4-5 minutes on each side until it is cooked through and has a nice char. Serve the grilled salmon warm alongside the avocado spinach salad.",
+            "id": 24,
+            "favorite": false,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/24.jpg"
+        },
+        {
+            "title": "Chicken Breast with Broccoli and Red Lentils",
+            "ingredients": [
+                "chicken breast",
+                "broccoli",
+                "red lentils",
+                "garlic",
+                "olive oil",
+                "salt",
+                "pepper"
+            ],
+            "instructions": "Begin by seasoning the chicken breasts with salt, pepper, and minced garlic. Heat olive oil in a skillet over medium heat and cook the chicken breasts for about 6-7 minutes on each side until golden brown and cooked through. Remove from the skillet and set aside. In the same skillet, add a bit more olive oil if needed, and sauté broccoli florets just until they are tender yet crisp. In a separate saucepan, cook the red lentils in water or chicken stock until they are soft, approximately 20 minutes. Serve the garlic-infused chicken breasts alongside the sautéed broccoli and cooked red lentils, making sure to drizzle any remaining juices from the skillet over the dish for added flavor.",
+            "id": 25,
+            "favorite": true,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/25.jpg"
+        },
+        {
+            "title": "Apple and Blueberry Almond Salad",
+            "ingredients": [
+                "apple",
+                "blueberries",
+                "almonds",
+                "lemon",
+                "honey",
+                "spinach",
+                "olive oil"
+            ],
+            "instructions": "Core and thinly slice the apple, and combine it in a large salad bowl with fresh blueberries and a handful of almonds. Add in a generous amount of fresh spinach leaves. To make the dressing, whisk together the juice of one lemon, a tablespoon of honey, and two tablespoons of olive oil. Pour the dressing over the salad and toss gently to combine all ingredients well. The natural sweetness of the apple and the acidity of the dressing complement each other, creating a refreshing yet hearty salad. For best results, serve immediately to enjoy the crispness of the apples and the freshness of the spinach.",
+            "id": 26,
+            "favorite": false,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/26.jpg"
+        },
+        {
+            "title": "Grilled Steak with Honey Mustard Glaze",
+            "ingredients": [
+                "steak",
+                "mustard",
+                "honey",
+                "steak sauce",
+                "butter"
+            ],
+            "instructions": "Start by preparing the honey mustard glaze. In a small bowl, mix equal parts mustard and honey until smooth. Preheat your grill to medium-high heat. Season the steak with salt and pepper and place it on the grill. Cook for 4-5 minutes on each side, brushing the honey mustard glaze onto the steak during the last few minutes of grilling. Remove the steak from the grill and let it rest for a few minutes. While the steak is resting, melt a pat of butter and combine it with steak sauce to drizzle over the steak before serving.",
+            "id": 27,
+            "favorite": false,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/27.jpg"
+        },
+        {
+            "title": "Wine Infused Buttered Beans",
+            "ingredients": [
+                "beans",
+                "butter",
+                "wine"
+            ],
+            "instructions": "In a medium-sized saucepan, melt a generous amount of butter over medium heat. Add the beans and toss them in the melted butter for a few minutes. Pour in a good splash of wine and let the mixture simmer for about 10 minutes until the beans are tender, and the wine has reduced slightly. Stir occasionally to ensure the beans are evenly coated with the wine and butter. Season with salt and pepper to taste before serving.",
+            "id": 28,
+            "favorite": false,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/28.jpg"
+        },
+        {
+            "title": "Caviar and Olive Tapenade",
+            "ingredients": [
+                "olives",
+                "caviar",
+                "butter"
+            ],
+            "instructions": "Finely chop the olives and combine them in a bowl with a spoonful of caviar. Add a tablespoon of softened butter and mix until smooth. This mixture can be used as a topping for toasted bread or crackers. For enhanced flavor, let the tapenade sit for at least 30 minutes before serving to allow the flavors to meld together.",
+            "id": 29,
+            "favorite": false,
+            "recommended": false,
+            "generated": true,
+            "image": "./static/images/29.jpg"
+        }
+    ]
+}
