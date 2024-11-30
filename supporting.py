@@ -6,7 +6,7 @@ import os
 def import_google_image(query, id):
 
     # Your Custom Search API key and CX (Custom Search Engine ID)
-    API_KEY = 'AIzaSyCpIlmS0DLuekfsDRImLje5_jPN9ZpqbbA'
+    API_KEY = os.environ.get("GOOGLE_SEARCH_API")
     CX = '65ceb5607416f4c51'
 
     # Request URL
