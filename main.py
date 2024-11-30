@@ -150,12 +150,14 @@ def get_favorites_json():
 
 @app.route('/find_recipes', methods=['POST'])
 def fetch_recipes():
+    print(request.get_json())
     ingredients_list = request.get_json()["ingredients"]
 
     if not ingredients_list:
         return jsonify({"error": "Invalid input"}), 400
 
     openai = OpenAI(api_key=os.environ.get("OPEN_AI_KEY"))
+    
     response = openai.chat.completions.create(
     model="gpt-4o",
     messages=[
@@ -164,8 +166,11 @@ def fetch_recipes():
     ])
     
     recipes = response.choices[0].message.content
+    print("recipes")
+    print(recipes)
 
     json_match = re.search(r'{.*}', recipes, re.DOTALL)
+    print(json_match)
 
     if json_match:
         json_recipes = json_match.group(0) 
