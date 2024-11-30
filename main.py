@@ -89,7 +89,7 @@ def upload_image():
     # Decode the Base64 string (if needed for further processing)
     base64_string = data['base64string']
 
-    openai = OpenAI(api_key='sk-svcacct-FFybn1Fzd3412SWSL2G8G1yembXYyQSDmGeVi0P-22iT4qS-VbxKtJ4_AzrfE5T3BlbkFJfDeIaOptGcjfLKZ6GClrZrHv9sIM4JBeYPxiQzm3sHG-rPDT8cfO4LD4zEGg4A')
+    openai = OpenAI(api_key= os.environ.get("OPEN_AI_KEY"))
     response = openai.chat.completions.create(
     model="gpt-4o",
     messages=[
@@ -155,7 +155,7 @@ def fetch_recipes():
     if not ingredients_list:
         return jsonify({"error": "Invalid input"}), 400
 
-    openai = OpenAI(api_key='sk-svcacct-FFybn1Fzd3412SWSL2G8G1yembXYyQSDmGeVi0P-22iT4qS-VbxKtJ4_AzrfE5T3BlbkFJfDeIaOptGcjfLKZ6GClrZrHv9sIM4JBeYPxiQzm3sHG-rPDT8cfO4LD4zEGg4A')
+    openai = OpenAI(api_key=os.environ.get("OPEN_AI_KEY"))
     response = openai.chat.completions.create(
     model="gpt-4o",
     messages=[
